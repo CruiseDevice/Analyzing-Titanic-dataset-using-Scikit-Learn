@@ -1,2 +1,2 @@
 # Analyzing-Titanic-dataset-using-Scikit-Learn
-Analyzing the Titanic dataset to see the survival rate of the passengers on different decks.
+An attempt to load a dataset and create the features and target matrices by choosing the appropriate target feature for the objective at hand.
